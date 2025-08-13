@@ -35,9 +35,9 @@ The form includes:
 
 ## 📷 Preview
 
-![preview1](images/survey-form-preview1.png)
+![preview1](images/preview1.png)
 
-![preview2](images/survey-form-preview2.png)
+![preview2](images/preview2.png)
 
 ---
 
