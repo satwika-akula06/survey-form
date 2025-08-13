@@ -35,7 +35,10 @@ The form includes:
 
 ## 📷 Preview
 
-![preview](https://satwika-akula06.github.io/survey-form/)
+## 📸 Previews
+
+[![Survey Form Preview 1](images/preview1.png)](https://your-username.github.io/survey-form/)
+[![Survey Form Preview 2](images/preview2.png)](https://your-username.github.io/survey-form/)
 
 
 ---
